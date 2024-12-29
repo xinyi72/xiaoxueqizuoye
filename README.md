@@ -11,7 +11,11 @@
 需要编写排序函数，计算分数的函数，输入的函数和输出的函数，输入输出可以放到main函数但是，放到main函数就会显的非常的乱所以就单独写了一个函数。
 因为有时候会手滑打错然后就又声明了一个函数是判断编号有没有重复
 bool IsUniqueID(int id, int currentIndex, int ids[], int maxCount);
+
 void InputScores();
+
 void zuihoufenshu();
+
 void SortScores();
+
 void shuchupaiming();
